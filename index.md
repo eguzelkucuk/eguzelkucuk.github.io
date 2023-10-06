@@ -9,18 +9,21 @@ permalink: /
 # Erkan GÜZELKÜÇÜK
 {: .fs-9 }
 
-Merhaba! Bu blog, yılların birikimi ve tecrübelerini paylaşma amacı güden bir platformdur. Burada, yazılım geliştirme dünyasının derinliklerine dalacak ve .Net, veritabanları, yazılım mimarisi, sorun çözme stratejileri ve daha fazlasını ele alacağız.
+<img src="https://tf.selcuk.edu.tr/dosyalar/files/033001/2022-2023/Güz/Etkinlik/koc2.JPG" alt="University of Selçuk">
 
-Yazılım geliştirme konusundaki tutkum ve uzun yıllara dayanan deneyimimle, karmaşık projelerde karşılaşılan sorunları nasıl çözebileceğinizi ve yazılım uygulamalarınızı nasıl optimize edebileceğinizi paylaşacağım. Ayrıca, .Net çerçevesi ile ilgili ipuçları, veritabanı tasarımı ve yönetimi hakkında pratik bilgiler, yazılım mimarisi prensipleri ve daha fazlasını bulacaksınız.
+Hello! This blog is a platform dedicated to sharing years of accumulated knowledge and experience. Here, we will delve into the depths of the software development world, covering topics such as .Net, databases, software architecture, problem-solving strategies, and much more.
 
-Eğer yazılım dünyasına yeni adım atmışsanız veya deneyiminizi daha da geliştirmek istiyorsanız, bu blog size rehberlik edecek. Her yazıda, karmaşık konuları anlaşılır bir şekilde açıklayarak, yazılım geliştirmenin inceliklerini keşfetmenize yardımcı olacağım.
+With my passion for software development and years of experience, I will show you how to tackle the challenges encountered in complex projects and how to optimize your software applications. You'll also find practical insights on .Net framework, tips on database design and management, principles of software architecture, and more.
 
-Bu heyecan verici yolculukta, sorularınızı sormaktan ve yorumlarınızı paylaşmaktan çekinmeyin. Hep birlikte öğrenmek ve büyümek için buradayız. Blogumu ziyaret ettiğiniz için teşekkür ederim ve bu yolculukta sizinle birlikte olmayı dört gözle bekliyorum!
+If you're new to the software world or looking to further enhance your skills, this blog will serve as your guide. In each post, I will explain complex topics in an understandable manner, helping you explore the intricacies of software development.
+
+Feel free to ask questions and share your comments during this exciting journey. We are here to learn and grow together. Thank you for visiting my blog, and I look forward to being with you every step of the way!
 
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning }
