@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: .Net
 nav_order: 2
 ---
 
