@@ -1,13 +1,13 @@
 ---
 layout: default
-title: .Net
+title: Docker-based Microservice Architecture with .Net 8
 nav_order: 2
 ---
 
-# Configuration
+# Docker-based Microservice Architecture with .Net 8
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+Software architecture is a discipline of planning and design that forms the foundation of a project, playing a crucial role in the software development process.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -20,12 +20,21 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
-## Site logo
+## Preface
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+Dear Readers,
+
+The world of technology is evolving rapidly, and the field of software development continues to grow steadily. This growth presents new opportunities and challenges, and as developers, we must closely monitor these changes and keep up with the latest technologies.
+
+This book is titled ".Net 8 with Docker-Based Microservice Architecture" and brings together these exciting technologies, addressing a crucial aspect of modern software development. By harnessing the power of .Net 8 and the flexibility of Docker, this book is prepared for anyone interested in exploring the intricacies of Microservice Architecture.
+
+Within the pages of this book, you will learn all the intricacies of creating Microservices using .Net 8 and Docker. Whether you are an experienced developer or a beginner, this book will guide you step by step in building complex systems. Through the examination of real-world scenarios and applications, you will learn to apply these concepts in practice.
+
+The aim of this book is to take you into the world of Microservices with .Net 8 and Docker, enabling you to confidently harness these exciting technologies. Each chapter is filled with practical examples that will help you acquire more knowledge and improve your skills.
+
+I am here to guide you on this journey. I hope this book becomes a valuable resource in your software development journey and opens the doors to the world of .Net 8 with Docker-based Microservices.
+
+Wishing you happy reading!
 
 ## Site favicon
 
