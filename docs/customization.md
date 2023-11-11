@@ -1,8 +1,9 @@
-# ---
-# layout: default
-# title: Customization
-# nav_order: 6
-# ---
+---
+layout: default
+title: Customization
+nav_order: 6
+published: false
+---
 
 # Customization
 {: .no_toc }
